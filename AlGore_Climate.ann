@@ -1,0 +1,702 @@
+T1	Pronominal 6 9	you
+T2	uniq_Larger_situation 19 24	Chris
+T3	Pleonastic 30 32	it
+T4	nonuniq_Physical_copresence 90 100	this stage
+T5	Bridging_restrictiveModifier 63 100	the opportunity to come to this stage
+T6	Bridging_restrictiveModifier 41 100	a great honor to have the opportunity to come to this stage
+T7	Pronominal 108 109	I
+T8	Pronominal 132 133	I
+T9	nonuniq_Physical_copresence 158 173	this conference
+T10	Pronominal 179 180	I
+T11	Pronominal 202 205	you
+T12	Quantified 195 205	all of you
+T13	nonuniq_Larger_situation 257 272	the other night
+T14	Pronominal 244 245	I
+T16	Bridging_restrictiveModifier 210 272	the many nice comments about what I had to say the other night
+T17	Pronominal 278 279	I
+T18	Pronominal 284 288	that
+T19	Pronominal 332 333	I
+T20	Pronominal 339 343	that
+T21	Pronominal 360 370	yourselves
+T22	Pronominal 374 376	my
+T23	Bridging_restrictiveModifier 374 385	my position
+T24	Pronominal 387 388	I
+T25	uniq_Larger_situation 397 410	Air Force Two
+T26	Measure_Nonreferential 415 426	eight years
+T27	Pronominal 432 433	I
+T28	Pronominal 451 453	my
+T29	Bridging_restrictiveModifier 451 468	my shoes or boots
+T30	Generic_individualLevel 479 490	an airplane
+T31	Pronominal 515 516	I
+T32	Pronominal 525 528	you
+T33	nonuniq_Hearer_new_spec 529 544	one quick story
+T34	Pronominal 564 568	that
+T35	Pronominal 585 587	me
+T36	Quantified 559 563	what
+T37	Pleonastic 589 591	It
+T38	Same_head 594 606	a true story
+T39	Pronominal 623 627	this
+T40	Quantified 610 627	every bit of this
+T41	uniq_Larger_situation 648 654	Tipper
+T42	Pronominal 659 660	I
+T43	uniq_Larger_situation 666 698	the -- (Mock sob) -- White House
+T44	Pronominal 716 718	we
+T45	Pronominal 737 740	our
+T47	uniq_Larger_situation 749 758	Nashville
+T49	Pronominal 776 778	we
+T50	Same_head 801 810	Nashville
+T51	Measure_Nonreferential 784 810	50 miles east of Nashville
+T52	Pronominal 822 831	ourselves
+T53	Pronominal 833 834	I
+T54	Pronominal 840 842	it
+T55	Predicative_Nonidentity 855 869	a little thing
+T56	Pronominal 873 876	you
+T57	Pronominal 899 900	I
+T58	Bridging_event 911 930	the rearview mirror
+T59	Pleonastic 951 953	it
+T60	Pronominal 963 965	me
+T61	Pleonastic 967 972	There
+T62	Quantified 977 989	no motorcade
+T63	Pronominal 1002 1005	You
+T64	Other_Nonreferential 1018 1035	phantom limb pain
+T65	Pronominal 1048 1052	This
+T66	nonuniq_Hearer_new_spec 1057 1077	a rented Ford Taurus
+T67	Pleonastic 1079 1081	It
+T68	nonuniq_Hearer_new_spec 1086 1096	dinnertime
+T69	Pronominal 1102 1104	we
+T70	Bridging_restrictiveModifier 1125 1139	a place to eat
+T71	Pronominal 1141 1143	We
+T72	uniq_Larger_situation 1152 1156	I-40
+T73	Pronominal 1158 1160	We
+T74	uniq_Larger_situation 1178 1196	Lebanon, Tennessee
+T75	Bridging_restrictiveModifier 1168 1196	Exit 238, Lebanon, Tennessee
+T76	Pronominal 1198 1200	We
+T77	Same_head 1209 1217	the exit
+T78	uniq_Hearer_new 1255 1261	Shoney
+T79	nonuniq_Hearer_new_spec 1253 1274	a Shoney's restaurant
+T80	Different_head 1276 1308	Low-cost family restaurant chain
+T81	Quantified 1327 1330	who
+T82	Pronominal 1342 1344	it
+T83	Pronominal 1323 1326	you
+T84	Bridging_restrictiveModifier 1314 1344	those of you who don't know it
+T85	Pronominal 1346 1348	We
+T86	Bridging_nominal 1373 1382	the booth
+T87	Bridging_nominal 1388 1400	the waitress
+T88	Same_head 1438 1444	Tipper
+T89	Bridging_restrictiveModifier 1417 1444	a big commotion over Tipper
+T90	Pronominal 1457 1460	She
+T91	Pronominal 1466 1469	our
+T92	Bridging_restrictiveModifier 1466 1475	our order
+T93	Pronominal 1526 1528	us
+T94	Bridging_restrictiveModifier 1508 1528	the booth next to us
+T95	Bridging_restrictiveModifier 1494 1528	the couple in the booth next to us
+T96	Pronominal 1534 1537	she
+T97	Pronominal 1546 1549	her
+T98	Bridging_restrictiveModifier 1546 1555	her voice
+T99	Pronominal 1564 1565	I
+T100	Pronominal 1600 1603	she
+T101	Quantified 1595 1599	what
+T102	Pronominal 1616 1619	She
+T103	Pronominal 1631 1635	that
+T105	uniq_predicative_identity 1638 1667	former Vice President Al Gore
+T106	Pronominal 1672 1675	his
+T108	Bridging_restrictiveModifier 1672 1687	his wife Tipper
+T109	Bridging_nominal 1694 1701	the man
+T110	Pronominal 1709 1713	He's
+T111	Other_Nonreferential 1724 1734	a long way
+T112	Pronominal 1743 1745	he
+T113	nonuniq_Hearer_new_spec 1793 1803	epiphanies
+T114	nonuniq_Hearer_new_spec 1781 1803	a series of epiphanies
+T115	Bridging_event 1805 1822	The very next day
+T116	Same_head 1835 1855	a totally true story
+T117	Pronominal 1857 1858	I
+T118	nonuniq_Hearer_new_spec 1866 1871	a G-5
+T119	uniq_Larger_situation 1882 1888	Africa
+T120	Part_of_noncompositionalMWE 1897 1905	a speech
+T121	uniq_Larger_situation 1909 1916	Nigeria
+T122	uniq_Larger_situation 1933 1938	Lagos
+T123	Bridging_restrictiveModifier 1921 1938	the city of Lagos
+T124	Other_Nonreferential 1956 1962	energy
+T125	nonuniq_Hearer_new_spec 1943 1962	the topic of energy
+T126	Pronominal 1964 1965	I
+T127	Same_head 1972 1982	the speech
+T128	Pronominal 1994 1998	them
+T129	Quantified 2012 2016	what
+T130	Bridging_OtherContext 2035 2049	the day before
+T131	Same_head 2053 2062	Nashville
+T132	Bridging_restrictiveModifier 1999 2062	the story of what had just happened the day before in Nashville
+T133	Pronominal 2064 2065	I
+T134	Pronominal 2071 2073	it
+T136	Pronominal 2099 2100	I
+T135	Pronominal 2116 2118	it
+T137	Pronominal 2124 2127	you
+T138	Bridging_restrictiveModifier 2086 2127	the same way I've just shared it with you
+T139	Same_head 2129 2135	Tipper
+T140	Pronominal 2140 2141	I
+T141	Pronominal 2155 2164	ourselves
+T142	Same_head 2166 2174	Shoney's
+T143	Same_head 2176 2208	low-cost family restaurant chain
+T144	Quantified 2210 2214	what
+T145	Same_head 2215 2222	the man
+T146	Pronominal 2231 2235	they
+T147	Pronominal 2245 2246	I
+T148	Pronominal 2252 2254	my
+T149	Bridging_restrictiveModifier 2252 2261	my speech
+T150	nonuniq_Hearer_new_spec 2285 2296	the airport
+T151	nonuniq_Larger_situation 2309 2313	home
+T152	Pronominal 2315 2316	I
+T153	Bridging_nominal 2332 2341	the plane
+T154	Pronominal 2381 2383	we
+T155	uniq_Larger_situation 2394 2412	the Azores Islands
+T156	Bridging_nominal 2370 2379	the night
+T158	Pronominal 2428 2429	I
+T159	Pronominal 2439 2443	they
+T160	Bridging_nominal 2451 2459	the door
+T161	Pronominal 2461 2462	I
+T162	Part_of_noncompositionalMWE 2479 2493	some fresh air
+T163	Pronominal 2499 2500	I
+T164	Bridging_nominal 2543 2553	the runway
+T165	nonuniq_Hearer_new_spec 2522 2553	a man running across the runway
+T166	Pronominal 2559 2561	he
+T167	Other_Nonreferential 2584 2589	paper
+T168	nonuniq_Hearer_new_spec 2573 2589	a piece of paper
+T169	Pronominal 2595 2597	he
+T170	uniq_Larger_situation 2617 2627	Washington
+T171	Same_head 2634 2644	Washington
+T172	Pronominal 2651 2652	I
+T173	Pronominal 2664 2670	myself
+T174	Same_head 2689 2698	the night
+T175	Same_head 2675 2698	the middle of the night
+T176	uniq_Larger_situation 2717 2729	the Atlantic
+T177	Bridging_restrictiveModifier 2703 2729	the middle of the Atlantic
+T178	uniq_Larger_situation 2739 2748	the world
+T179	Same_head 2767 2777	Washington
+T180	Pronominal 2784 2785	I
+T181	Pleonastic 2797 2799	it
+T182	nonuniq_Hearer_new_spec 2820 2826	things
+T183	Measure_Nonreferential 2809 2826	a bunch of things
+T184	Pleonastic 2849 2851	it
+T185	Pronominal 2878 2880	my
+T186	Bridging_restrictiveModifier 2878 2886	my staff
+T187	uniq_Larger_situation 2943 2950	Nigeria
+T188	Bridging_restrictiveModifier 2922 2950	the wire services in Nigeria
+T189	nonuniq_Hearer_new_spec 2915 2950	one of the wire services in Nigeria
+T190	Pronominal 2985 2987	my
+T191	Bridging_restrictiveModifier 2985 2994	my speech
+T192	nonuniq_Hearer_new_spec 2971 2994	a story about my speech
+T193	Pronominal 3000 3002	it
+T194	uniq_Larger_situation 3049 3077	the United States of America
+T195	Bridging_restrictiveModifier 3031 3077	cities all across the United States of America
+T196	Pronominal 3081 3083	it
+T197	uniq_Larger_situation 3099 3107	Monterey
+T198	Pronominal 3109 3110	I
+T199	Same_head 3124 3133	the story
+T200	uniq_Larger_situation 3142 3171	Former Vice President Al Gore
+T201	uniq_Larger_situation 3185 3192	Nigeria
+T202	Pronominal 3205 3207	My
+T203	Bridging_restrictiveModifier 3205 3219	My wife Tipper
+T204	Pronominal 3224 3225	I
+T205	nonuniq_generic_nonspec 3238 3266	a low-cost family restaurant
+T206	uniq_Hearer_new 3274 3282	Shoney's
+T207	Pronominal 3288 3290	we
+T208	Pronominal 3303 3305	it
+T209	Pronominal 3306 3315	ourselves
+T210	Pronominal 3337 3338	I
+T211	Bridging_restrictiveModifier 3357 3366	U.S. soil
+T212	uniq_Larger_situation 3368 3383	David Letterman
+T213	uniq_Larger_situation 3388 3396	Jay Leno
+T214	Pronominal 3433 3437	them
+T215	nonuniq_Hearer_new_spec 3426 3437	one of them
+T216	Pronominal 3442 3444	me
+T217	Bridging_nominal 3450 3464	big white chef
+T218	Bridging_restrictiveModifier 3448 3470	a big white chef's hat
+T219	Same_head 3472 3478	Tipper
+T220	nonuniq_generic_nonspec 3492 3507	One more burger
+T221	nonuniq_generic_nonspec 3514 3519	fries
+T222	Measure_Nonreferential 3522 3532	Three days
+T223	Pronominal 3540 3541	I
+T224	Pronominal 3584 3586	my
+T225	uniq_Larger_situation 3620 3632	Bill Clinton
+T226	Bridging_restrictiveModifier 3584 3632	my friend and partner and colleague Bill Clinton
+T227	nonuniq_Larger_situation 3661 3679	the new restaurant
+T228	uniq_Larger_situation 3681 3683	Al
+T229	Pronominal 3697 3699	We
+T230	Pronominal 3718 3728	each other
+T231	Other_Nonreferential 3744 3748	life
+T232	Bridging_restrictiveModifier 3718 3748	each other's successes in life
+T233	Pronominal 3751 3752	I
+T234	Other_Nonreferential 3777 3796	information ecology
+T235	Pronominal 3802 3803	I
+T236	Pronominal 3828 3829	I
+T237	uniq_Physical_copresence 3878 3881	TED
+T238	Bridging_restrictiveModifier 3843 3881	a lifelong habit of coming back to TED
+T239	Pronominal 3894 3895	I
+T240	Pronominal 3913 3917	that
+T241	nonuniq_generic_nonspec 3918 3930	another time
+T243	Pleonastic 3960 3962	It
+T244	Predicative_Nonidentity 3965 3971	a deal
+T242	Pronominal 3983 3984	I
+T245	Quantified 4002 4006	what
+T246	Pronominal 4015 4018	you
+T247	Quantified 4007 4018	many of you
+T248	Pronominal 4029 4032	you
+T249	Pronominal 4044 4046	me
+T250	Quantified 4064 4068	What
+T251	Pronominal 4073 4076	you
+T252	Bridging_OtherContext 4086 4105	the climate crisis?
+T253	Pronominal 4106 4107	I
+T254	Pronominal 4130 4131	I
+T255	nonuniq_Hearer_new_spec 4148 4163	some new images
+T256	Pronominal 4169 4170	I
+T257	nonuniq_Hearer_new_spec 4195 4212	just four or five
+T258	nonuniq_Physical_copresence 4219 4233	the slide show
+T259	Pronominal 4235 4236	I
+T260	Same_head 4244 4258	the slide show
+T261	Pronominal 4270 4271	I
+T262	Pronominal 4277 4279	it
+T263	Pronominal 4281 4282	I
+T264	nonuniq_generic_nonspec 4287 4297	new images
+T265	Pronominal 4306 4307	I
+T266	Pronominal 4325 4327	it
+T267	Measure_Nonreferential 4314 4327	more about it
+T268	Pronominal 4339 4340	I
+T269	Pronominal 4346 4348	it
+T270	Quantified 4328 4348	every time I give it
+T271	Pleonastic 4350 4352	It
+T272	Other_Nonreferential 4360 4372	beachcombing
+T273	Pronominal 4374 4377	you
+T274	Bridging_nominal 4395 4403	the tide
+T275	Quantified 4384 4420	Every time the tide comes in and out
+T276	Pronominal 4422 4425	you
+T277	nonuniq_generic_nonspec 4431 4447	some more shells
+T278	nonuniq_Larger_situation 4457 4474	the last two days
+T279	Pronominal 4476 4478	we
+T280	nonuniq_Larger_situation 4514 4521	January
+T281	Bridging_restrictiveModifier 4483 4521	the new temperature records in January
+T282	Pronominal 4523 4527	This
+T283	uniq_Larger_situation 4540 4568	the United States of America
+T284	Same_head 4593 4600	January
+T285	Bridging_restrictiveModifier 4570 4600	Historical average for January
+T286	Measure_Nonreferential 4604 4614	31 degrees
+T287	nonuniq_Larger_situation 4616 4626	Last month
+T288	Measure_Nonreferential 4631 4643	39.5 degrees
+T289	Pronominal 4651 4652	I
+T290	Pronominal 4663 4666	you
+T291	Bridging_nominal 4699 4714	the environment
+T292	Bridging_restrictiveModifier 4674 4714	some more bad news about the environment
+T293	Pronominal 4718 4719	I
+T294	Pronominal 4737 4742	these
+T295	nonuniq_Physical_copresence 4747 4772	the recapitulation slides
+T296	Pronominal 4783 4784	I
+T297	Quantified 4823 4827	what
+T298	Pronominal 4828 4831	you
+T299	Bridging_restrictiveModifier 4804 4838	new material about what you can do
+T300	Pronominal 4844 4845	I
+T301	Pronominal 4881 4886	these
+T302	Measure_Nonreferential 4869 4886	a couple of these
+T303	Pronominal 4902 4906	this
+T304	Pronominal 4916 4918	we
+T305	Bridging_nominal 4968 4982	global warming
+T306	Bridging_restrictiveModifier 4943 4982	the U.S. contribution to global warming
+T307	Part_of_noncompositionalMWE 4990 4998	business
+T308	Other_Nonreferential 5023 5042	end-use electricity
+T309	uniq_Larger_situation 5058 5068	all energy
+T310	Bridging_restrictiveModifier 5047 5068	end-use of all energy
+T311	Bridging_restrictiveModifier 5009 5068	Efficiency in end-use electricity and end-use of all energy
+T312	nonunique_predicative 5072 5093	the low-hanging fruit
+T313	Same_head 5095 5105	Efficiency
+T314	Other_Nonreferential 5110 5122	conservation
+T315	Pleonastic 5124 5126	it
+T316	Predicative_Nonidentity 5133 5139	a cost
+T317	Pleonastic 5141 5143	it
+T318	Predicative_Nonidentity 5146 5154	a profit
+T319	nonuniq_Physical_copresence 5156 5164	The sign
+T320	Pronominal 5175 5177	It
+T321	Pronominal 5194 5196	it
+T322	Pronominal 5209 5214	These
+T323	Pronominal 5244 5254	themselves
+T324	Bridging_restrictiveModifier 5219 5254	investments that pay for themselves
+T325	Pronominal 5260 5264	they
+T326	Pronominal 5303 5306	our
+T327	Bridging_restrictiveModifier 5303 5311	our path
+T330	Pronominal 5333 5334	I
+T331	Pronominal 5348 5352	that
+T332	Same_head 5356 5369	the slideshow
+T333	Pronominal 5375 5376	I
+T334	Pronominal 5382 5385	you
+T335	Pronominal 5393 5395	it
+T336	Part_of_noncompositionalMWE 5399 5410	perspective
+T337	Pronominal 5412 5414	It
+T338	Other_Nonreferential 5444 5451	concern
+T339	Predicative_Nonidentity 5417 5451	an easy, visible target of concern
+T340	Pronominal 5457 5459	it
+T341	Generic_individualLevel 5530 5539	buildings
+T344	Bridging_restrictiveModifier 5484 5565	more global warming pollution that comes from buildings than from cars and trucks
+T347	Pronominal 5609 5611	we
+T348	uniq_Larger_situation 5641 5650	the world
+T349	uniq_Larger_situation 5617 5650	the lowest standards in the world
+T350	Pronominal 5659 5661	we
+T351	Pronominal 5677 5681	that
+T352	Pronominal 5687 5689	it
+T353	Part_of_noncompositionalMWE 5700 5710	the puzzle
+T354	Other_Nonreferential 5692 5710	part of the puzzle
+T355	nonuniq_Physical_copresence 5712 5743	Other transportation efficiency
+T359	Bridging_restrictiveModifier 5794 5840	the current levels of technological efficiency
+T360	Bridging_restrictiveModifier 5780 5840	Renewables at the current levels of technological efficiency
+T361	nonuniq_Physical_copresence 5850 5870	this much difference
+T362	uniq_Physical_copresence 5886 5891	Vinod
+T363	uniq_Physical_copresence 5897 5907	John Doerr
+T364	nonuniq_Hearer_new_spec 5913 5919	others
+T365	Pronominal 5929 5932	you
+T366	Quantified 5921 5932	many of you
+T367	Pronominal 5978 5982	this
+T368	Bridging_restrictiveModifier 5950 5982	people directly involved in this
+T369	Quantified 5941 5982	a lot of people directly involved in this
+T370	nonuniq_Physical_copresence 5986 5996	this wedge
+T371	nonuniq_Physical_copresence 6037 6059	the current projection
+T372	Pronominal 6066 6068	it
+T373	uniq_Hearer_new 6070 6102	Carbon Capture and Sequestration
+T374	Pronominal 6106 6112	that's
+T375	uniq_Physical_copresence 6118 6121	CCS
+T377	Pronominal 6188 6190	us
+T378	Generic_individualLevel 6210 6222	fossil fuels
+T379	Pronominal 6232 6236	that
+T380	Bridging_restrictiveModifier 6226 6244	a way that is safe
+T381	Bridging_restrictiveModifier 6156 6244	the killer app that will enable us to continue to use fossil fuels in a way that is safe
+T382	Quantified 6277 6281	what
+T383	Pronominal 6286 6289	you
+T384	Pronominal 6314 6318	your
+T385	Bridging_restrictiveModifier 6314 6323	your home
+T386	Bridging_restrictiveModifier 6301 6323	emissions in your home
+T358	Same_head 5816 5840	technological efficiency
+T387	nonuniq_Physical_copresence 6333 6351	these expenditures
+T388	Quantified 6325 6351	Most of these expenditures
+T389	nonuniq_Physical_copresence 6373 6383	Insulation
+T390	nonuniq_Physical_copresence 6385 6398	better design
+T391	nonuniq_Physical_copresence 6404 6421	green electricity
+T392	Pronominal 6428 6431	you
+T393	Pronominal 6437 6438	I
+T394	Same_head 6449 6460	automobiles
+T395	nonuniq_Physical_copresence 6468 6476	a hybrid
+T396	nonuniq_Physical_copresence 6482 6492	light rail
+T398	Bridging_restrictiveModifier 6513 6551	the other options that are much better
+T399	Quantified 6505 6551	some of the other options that are much better
+T400	Pleonastic 6553 6555	It
+T401	nonuniq_Physical_copresence 6573 6589	a green consumer
+T402	Pronominal 6591 6594	You
+T403	Generic_individualLevel 6600 6607	choices
+T404	Pronominal 6624 6627	you
+T405	Quantified 6613 6631	everything you buy
+T407	nonuniq_generic_nonspec 6658 6672	a harsh effect
+T408	nonuniq_generic_nonspec 6676 6700	a much less harsh effect
+T409	Same_head 6704 6729	the global climate crisis
+T410	Bridging_restrictiveModifier 6641 6729	things that have a harsh effect or a much less harsh effect on the global climate crisis
+T411	Pronominal 6740 6744	this
+T412	nonuniq_generic_nonspec 6770 6791	a carbon-neutral life
+T413	Bridging_restrictiveModifier 6751 6791	a decision to live a carbon-neutral life
+T414	Pronominal 6802 6805	you
+T415	Pronominal 6806 6809	who
+T416	Other_Nonreferential 6822 6830	branding
+T417	Bridging_restrictiveModifier 6793 6830	Those of you who are good at branding
+T418	Pronominal 6832 6833	I
+T419	Pronominal 6848 6852	your
+T420	Pronominal 6883 6887	this
+T421	Quantified 6916 6931	the most people
+T422	Bridging_restrictiveModifier 6891 6931	a way that connects with the most people
+T423	Bridging_restrictiveModifier 6848 6931	your advice and help on how to say this in a way that connects with the most people
+T424	Pronominal 6933 6935	It
+T425	Pronominal 6951 6954	you
+T426	Pronominal 6962 6964	It
+T427	Pronominal 6985 6987	us
+T428	Quantified 6976 6987	A lot of us
+T429	Same_head 7006 7019	that decision
+T430	Pronominal 7024 7026	it
+T431	Pronominal 7050 7052	It
+T432	Pronominal 7067 7071	your
+T433	Same_head 7067 7096	your carbon dioxide emissions
+T434	Pronominal 7128 7132	that
+T435	Pronominal 7133 7136	you
+T436	Bridging_restrictiveModifier 7120 7141	choices that you make
+T437	Bridging_restrictiveModifier 7102 7141	the full range of choices that you make
+T438	Pronominal 7203 7206	you
+T439	Pronominal 7198 7202	that
+T440	Bridging_restrictiveModifier 7184 7234	the remainder that you have not completely reduced
+T441	Bridging_restrictiveModifier 7172 7234	offsets for the remainder that you have not completely reduced
+T442	Quantified 7240 7244	what
+T443	Pronominal 7245 7247	it
+T444	uniq_Physical_copresence 7271 7288	climatecrisis.net
+T445	nonuniq_Physical_copresence 7300 7319	a carbon calculator
+T446	nonuniq_Hearer_new_spec 7321 7344	Participant Productions
+T447	Pronominal 7360 7362	my
+T448	Bridging_restrictiveModifier 7360 7381	my active involvement
+T449	uniq_Larger_situation 7415 7424	the world
+T450	nonuniq_Physical_copresence 7451 7469	carbon calculation
+T451	Bridging_restrictiveModifier 7428 7469	this arcane science of carbon calculation
+T452	Bridging_restrictiveModifier 7383 7469	the leading software writers in the world on this arcane science of carbon calculation
+T453	nonuniq_generic_nonspec 7483 7520	a consumer-friendly carbon calculator
+T454	Pronominal 7522 7525	You
+T455	Quantified 7555 7559	what
+T456	Pronominal 7560 7564	your
+T457	Same_head 7560 7578	your CO2 emissions
+T458	Pronominal 7593 7596	you
+T459	nonuniq_generic_nonspec 7611 7628	options to reduce
+T460	nonuniq_Larger_situation 7646 7655	the movie
+T461	nonuniq_Larger_situation 7669 7672	May
+T462	Bridging_restrictiveModifier 7637 7672	the time the movie comes out in May
+T463	Pronominal 7674 7678	this
+T464	uniq_Hearer_new 7698 7701	2.0
+T465	Pronominal 7706 7708	we
+T466	Same_head 7746 7753	offsets
+T467	Different_head 7719 7753	click-through purchases of offsets
+T468	Pronominal 7778 7782	your
+T469	Bridging_restrictiveModifier 7778 7791	your business
+T470	Pronominal 7823 7825	us
+T471	Quantified 7815 7825	some of us
+T472	Pronominal 7836 7840	that
+T473	Pronominal 7846 7849	it'
+T474	Pronominal 7866 7869	you
+T475	Bridging_nominal 7887 7904	climate solutions
+T476	Pronominal 7917 7921	your
+T477	Bridging_restrictiveModifier 7917 7933	your innovations
+T478	Quantified 7910 7933	all of your innovations
+T479	Pronominal 7943 7946	you
+T480	nonuniq_Larger_situation 7956 8026	the technology, or entertainment, or design and architecture community
+T481	uniq_Larger_situation 8048 8054	Majora
+T482	Pronominal 8065 8069	this
+T483	Pronominal 8082 8085	you
+T484	Other_Nonreferential 8100 8105	money
+T485	Pronominal 8120 8123	who
+T486	Pronominal 8124 8127	you
+T487	Pronominal 8155 8160	their
+T488	Bridging_restrictiveModifier 8155 8179	their annual performance
+T489	Bridging_restrictiveModifier 8111 8179	managers who you compensate on the basis of their annual performance
+T490	Generic_individualLevel 8213 8244	quarterly report CEO management
+T491	Other_Nonreferential 8251 8255	time
+T492	Generic_individualLevel 8257 8263	people
+T493	Quantified 8267 8271	what
+T494	Pronominal 8272 8275	you
+T495	Pronominal 8280 8284	them
+T496	Pronominal 8299 8303	they
+T497	Pronominal 8319 8323	they
+T498	Pronominal 8348 8352	your
+T499	Pronominal 8366 8370	they
+T500	Bridging_restrictiveModifier 8348 8382	your capital that they've invested
+#1	AnnotatorNotes T453	or anaphoric basic same head !
+T501	Bridging_event 8393 8415	the short-term returns
+T502	Pronominal 8417 8420	you
+T503	nonuniq_generic_nonspec 8437 8457	short-term decisions
+T504	Measure_Nonreferential 8459 8469	A lot more
+T505	Pronominal 8487 8491	that
+T506	Other_Nonreferential 8515 8521	change
+T507	nonuniq_generic_nonspec 8501 8521	a catalyst of change
+T508	nonuniq_generic_nonspec 8529 8535	others
+T509	Pronominal 8549 8551	it
+T510	Pronominal 8564 8566	it
+T511	Same_head 8568 8577	The movie
+T512	Same_head 8591 8600	the movie
+T513	Pronominal 8637 8638	I
+T514	Measure_Nonreferential 8644 8654	two nights
+T515	Bridging_restrictiveModifier 8623 8658	the slideshow I gave two nights ago
+T516	Bridging_restrictiveModifier 8604 8658	a movie version of the slideshow I gave two nights ago
+T517	Pronominal 8667 8669	it
+T518	Pronominal 8701 8703	it
+T519	Same_head 8717 8720	May
+T520	Pronominal 8730 8733	you
+T521	Quantified 8722 8733	Many of you
+T522	nonuniq_generic_nonspec 8784 8790	people
+T523	Quantified 8775 8790	a lot of people
+T524	Pronominal 8795 8797	it
+T525	Bridging_restrictiveModifier 8744 8797	the opportunity to ensure that a lot of people see it
+T526	nonuniq_generic_nonspec 8816 8824	somebody
+T527	uniq_Larger_situation 8828 8837	Nashville
+T528	Pronominal 8854 8855	I
+T529	nonuniq_generic_nonspec 8885 8891	people
+T530	Same_head 8900 8914	this slideshow
+T531	nonuniq_Hearer_new_spec 8942 8962	the personal stories
+T532	Quantified 8934 8962	some of the personal stories
+T533	nonuniq_generic_nonspec 8987 9005	a generic approach
+T534	Pleonastic 9014 9016	it
+T535	Same_head 9028 9038	the slides
+T536	Pleonastic 9040 9042	it
+T537	Quantified 9045 9049	what
+T538	Pronominal 9050 9054	they
+T539	Pleonastic 9065 9067	it
+T540	Pronominal 9074 9078	they
+T541	Pronominal 9101 9102	I
+T542	nonuniq_Hearer_new_spec 9128 9136	a course
+T543	nonuniq_Larger_situation 9137 9148	this summer
+T544	Pronominal 9171 9175	that
+T545	nonuniq_Hearer_new_spec 9193 9208	different folks
+T546	Pronominal 9231 9233	it
+T547	Bridging_restrictiveModifier 9164 9233	people that are nominated by different folks to come and then give it
+T548	Measure_Nonreferential 9153 9233	a group of people that are nominated by different folks to come and then give it
+T549	nonuniq_Larger_situation 9271 9282	the country
+T550	Bridging_restrictiveModifier 9248 9282	communities all across the country
+T551	Pronominal 9288 9290	we
+T552	Same_head 9310 9323	the slideshow
+T553	Pronominal 9335 9339	them
+T554	Quantified 9328 9339	all of them
+T555	Quantified 9340 9357	every single week
+T556	Pronominal 9366 9368	it
+T557	Part_of_noncompositionalMWE 9378 9394	the cutting edge
+T558	uniq_Larger_situation 9409 9421	Larry Lessig
+T559	Pronominal 9423 9425	it
+T560	Different_head 9448 9460	that process
+T561	nonuniq_Hearer_new_spec 9474 9479	tools
+T562	nonuniq_Hearer_new_spec 9484 9506	limited-use copyrights
+T563	Generic_individualLevel 9516 9528	young people
+T564	Pronominal 9539 9541	it
+T565	Pronominal 9549 9551	it
+T566	Pronominal 9555 9560	their
+T567	Bridging_restrictiveModifier 9555 9568	their own way
+T568	nonuniq_generic_nonspec 9592 9599	anybody
+T569	Pronominal 9618 9621	you
+T570	Part_of_noncompositionalMWE 9636 9648	arm's length
+T571	Other_Nonreferential 9654 9662	politics
+T572	Bridging_restrictiveModifier 9604 9662	the idea that you ought to stay arm's length from politics
+T573	Pronominal 9664 9666	It
+T574	Pronominal 9688 9691	you
+T575	Predicative_Nonidentity 9696 9708	a Republican
+T576	Pronominal 9714 9715	I
+T577	Pronominal 9737 9740	you
+T578	Predicative_Nonidentity 9747 9757	a Democrat
+T579	Pronominal 9759 9761	We
+T580	Generic_individualLevel 9767 9778	Republicans
+T581	Pronominal 9788 9792	This
+T582	nonunique_predicative 9804 9822	a bipartisan issue
+T583	Pronominal 9828 9829	I
+T584	nonuniq_Physical_copresence 9843 9853	this group
+T585	Pronominal 9854 9856	it
+T586	Pronominal 9900 9903	our
+T587	Bridging_restrictiveModifier 9900 9913	our democracy
+T588	Pronominal 9927 9929	it
+T589	Bridging_restrictiveModifier 9919 9948	the way it's supposed to work
+T590	Same_head 9978 10002	carbon dioxide emissions
+T591	Same_head 10004 10028	global warming pollution
+T592	Bridging_restrictiveModifier 9958 10028	the idea of capping carbon dioxide emissions, global warming pollution
+T593	Pronominal 10042 10044	it
+T594	uniq_Larger_situation 10069 10086	the United States
+T595	nonuniq_Larger_situation 10097 10113	the world system
+T596	Pronominal 10115 10117	it
+T597	Predicative_Nonidentity 10124 10139	a closed system
+T598	Pronominal 10146 10148	it
+T599	Same_head 10157 10172	a closed system
+T600	Bridging_restrictiveModifier 10179 10197	U.S. participation
+T601	Quantified 10204 10213	everybody
+T602	Pronominal 10214 10217	who
+T603	Part_of_noncompositionalMWE 10234 10243	directors
+T604	nonuniq_generic_nonspec 10223 10243	a board of directors
+T605	Quantified 10247 10262	how many people
+T606	nonuniq_generic_nonspec 10303 10316	a corporation
+T607	Part_of_noncompositionalMWE 10290 10299	directors
+T608	Same_head 10277 10316	the board of directors of a corporation
+T609	Pronominal 10323 10325	it
+T610	Same_head 10328 10343	a closed system
+T611	Pronominal 10345 10348	you
+T612	nonuniq_generic_nonspec 10359 10374	legal liability
+T613	Pronominal 10378 10381	you
+T614	Pronominal 10394 10398	your
+T615	Bridging_restrictiveModifier 10394 10402	your CEO
+T616	nonuniq_generic_nonspec 10410 10428	the maximum income
+T617	Pronominal 10476 10480	that
+T618	Bridging_restrictiveModifier 10455 10495	the carbon emissions that can be avoided
+T619	nonuniq_Larger_situation 10497 10507	The market
+T620	Different_head 10527 10539	this problem
+T621	Pronominal 10543 10545	we
+T622	Pronominal 10561 10565	this
+T623	Pronominal 10606 10610	that
+T624	nonuniq_Larger_situation 10622 10633	this spring
+T625	Bridging_restrictiveModifier 10577 10633	the mass persuasion campaign that will start this spring
+T626	Pronominal 10635 10637	We
+T627	nonuniq_Larger_situation 10666 10685	the American people
+T628	Bridging_restrictiveModifier 10653 10685	the minds of the American people
+T629	Generic_individualLevel 10705 10720	the politicians
+T630	Quantified 10750 10754	what
+T631	Bridging_restrictiveModifier 10733 10771	permission to do what needs to be done
+T632	Pronominal 10781 10784	our
+T633	Bridging_restrictiveModifier 10781 10799	our modern country
+T636	Bridging_restrictiveModifier 10801 10829	the role of logic and reason
+T637	Other_Nonreferential 10867 10873	wealth
+T638	Other_Nonreferential 10878 10883	power
+T639	Pronominal 10892 10894	it
+T640	Bridging_restrictiveModifier 10884 10903	the way it once did
+T641	Pronominal 10905 10907	It
+T642	nonuniq_Larger_situation 10928 10982	short, hot-button, 30-second, 28-second television ads
+T643	Bridging_restrictiveModifier 10914 10982	repetition of short, hot-button, 30-second, 28-second television ads
+T644	Pronominal 10984 10986	We
+T645	Same_head 11008 11017	those ads
+T646	Quantified 10999 11017	a lot of those ads
+T647	Same_head 11033 11047	global warming
+T648	Pronominal 11060 11063	you
+T649	Quantified 11052 11063	many of you
+T650	Pronominal 11080 11081	I
+T651	uniq_Larger_situation 11087 11103	"climate crisis"
+T652	uniq_Hearer_new 11115 11134	"climate collapse,"
+T653	Pronominal 11155 11158	you
+T654	Pronominal 11159 11162	who
+T655	Same_head 11175 11183	branding
+T656	Bridging_restrictiveModifier 11146 11183	those of you who are good at branding
+T657	Pronominal 11185 11186	I
+T658	Pronominal 11192 11196	your
+T659	Bridging_restrictiveModifier 11192 11201	your help
+T660	Pronominal 11205 11209	this
+T661	nonuniq_Hearer_new_spec 11211 11219	Somebody
+T662	Pronominal 11234 11236	we
+T663	Bridging_restrictiveModifier 11225 11250	the test we're facing now
+T664	nonuniq_Hearer_new_spec 11252 11263	a scientist
+T665	Pronominal 11269 11271	me
+T666	nonuniq_generic_nonspec 11303 11321	an opposable thumb
+T667	nonuniq_generic_nonspec 11326 11337	a neocortex
+T668	Bridging_restrictiveModifier 11284 11337	the combination of an opposable thumb and a neocortex
+T669	Predicative_Nonidentity 11341 11361	a viable combination
+T670	Pronominal 11363 11367	That
+T671	Pronominal 11383 11384	I
+T672	nonuniq_Larger_situation 11390 11405	the other night
+T673	Pronominal 11411 11412	I
+T674	Pronominal 11428 11432	this
+T675	Predicative_Nonidentity 11440 11457	a political issue
+T676	Same_head 11466 11481	the Republicans
+T677	Pronominal 11488 11492	this
+T678	Pronominal 11516 11519	You
+T680	Pronominal 11553 11555	us
+T681	Pronominal 11556 11559	who
+T682	nonunique_predicative 11564 11573	Democrats
+T683	Quantified 11545 11573	some of us who are Democrats
+T684	Pronominal 11578 11582	This
+T685	Predicative_Nonidentity 11586 11600	an opportunity
+T686	Pronominal 11611 11615	this
+T687	Pronominal 11644 11648	that
+T688	Bridging_restrictiveModifier 11634 11657	the ideas that are here
+T689	Measure_Nonreferential 11668 11682	more coherence
+T690	Pronominal 11686 11690	them
+T691	Pronominal 11692 11694	We
+T692	Predicative_Nonidentity 11699 11702	one
+T693	Pronominal 11710 11713	you
+T694	Pronominal 11725 11726	I
+T695	Pronominal 11738 11740	it
+T679	Measure_Nonreferential 11525 11539	more influence
+T15	Quantified 239 243	what
+T48	Bridging_restrictiveModifier 762 810	a little farm we have 50 miles east of Nashville
+T696	Pronominal 1244 1246	we
+T697	Quantified 2731 2748	what in the world
+T698	nonuniq_Hearer_new_spec 3546 3578	a nice, long, handwritten letter
+T699	Quantified 4259 4269	every time
+T700	uniq_Larger_situation 3070 3077	America
+T342	Same_head 5550 5565	cars and trucks
+T343	Same_head 5567 5582	Cars and trucks
+T345	Same_head 5763 5778	cars and trucks
+T346	Part_of_noncompositionalMWE 9636 9639	arm
+T356	Other_Nonreferential 10813 10829	logic and reason
+T357	Bridging_restrictiveModifier 11553 11573	us who are Democrats
+T104	uniq_Larger_situation 4561 4568	America
+T46	Bridging_restrictiveModifier 737 758	our home in Nashville
+T107	nonuniq_Physical_copresence 5314 5329	Cars and trucks
+T328	uniq_Larger_situation 1681 1687	Tipper
+T157	Bridging_restrictiveModifier 2356 2379	the middle of the night
+T329	uniq_Larger_situation 3164 3171	Al Gore
+T634	uniq_Larger_situation 3213 3219	Tipper
+T376	Pronominal 6648 6652	that
+T397	Pronominal 6531 6535	that
+T406	Pronominal 6171 6175	that
+T635	Pronominal 5514 5518	that
+T701	Pronominal 6897 6901	that

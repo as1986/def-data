@@ -1,0 +1,186 @@
+T1	Generic_individualLevel 9 17	the news
+T2	Pronominal 32 34	we
+T3	uniq_Larger_situation 39 48	the world
+T4	Bridging_restrictiveModifier 24 48	the way we see the world
+T5	Pronominal 84 86	it
+T6	Bridging_restrictiveModifier 76 92	the way it looks
+T7	Same_head 57 92	the world based on the way it looks
+T8	nonuniq_Larger_situation 105 113	landmass
+T9	Same_head 130 134	news
+T10	Quantified 142 146	what
+T11	nonuniq_Larger_situation 147 156	Americans
+T12	nonuniq_Physical_copresence 162 170	This map
+T15	Same_head 188 196	this map
+T16	uniq_Larger_situation 330 334	2007
+T17	nonuniq_Larger_situation 318 334	February of 2007
+T18	Other_Nonreferential 306 313	country
+T19	nonuniq_Hearer_new_spec 289 301	news stories
+#1	AnnotatorNotes T19	not nonuniq_generic_nonspec as it is in past tense, so it already happened- there were specific stories on which time was dedicated!
+T20	uniq_Larger_situation 230 246	American network
+#2	AnnotatorNotes T20	?? not sure
+T21	Generic_individualLevel 251 261	cable news
+T22	Generic_individualLevel 251 275	cable news organizations
+#3	AnnotatorNotes T22	?? not sure - bridging restrictive modifier?
+T23	Measure_Nonreferential 343 351	one year
+T24	Bridging_restrictiveModifier 203 334	the number of seconds that American network and cable news organizations dedicated to news stories, by country, in February of 2007
+T25	Measure_Nonreferential 217 224	seconds
+#4	AnnotatorNotes T25	?? not sure
+T26	Pronominal 362 366	this
+T27	uniq_Larger_situation 384 395	North Korea
+T28	Pronominal 416 419	its
+T29	nonuniq_Hearer_new_spec 416 438	its nuclear facilities
+T30	nonuniq_Hearer_new_spec 371 438	a month when North Korea agreed to dismantle its nuclear facilities
+T31	Pleonastic 440 445	There
+T32	nonuniq_Hearer_new_spec 450 466	massive flooding
+T33	uniq_Larger_situation 470 479	Indonesia
+T34	uniq_Larger_situation 488 493	Paris
+T35	uniq_Larger_situation 495 503	the IPCC
+T36	Pronominal 513 516	its
+T37	Generic_individualLevel 534 537	man
+#5	AnnotatorNotes T37	??
+T38	Other_Nonreferential 550 564	global warming
+T39	Bridging_restrictiveModifier 534 564	man's impact on global warming
+T40	Bridging_restrictiveModifier 513 564	its study confirming man's impact on global warming
+T41	uniq_Larger_situation 566 574	The U.S.
+T42	uniq_Larger_situation 603 622	total news coverage
+#6	AnnotatorNotes T42	maximality condition of uniqueness
+T43	Quantified 589 622	79 percent of total news coverage
+T45	Pronominal 633 635	we
+T46	uniq_Larger_situation 645 653	the U.S.
+T47	nonuniq_Physical_copresence 666 690	the remaining 21 percent
+T49	Pronominal 692 694	we
+T50	uniq_Larger_situation 708 712	Iraq
+T51	Quantified 699 712	a lot of Iraq
+#7	AnnotatorNotes T51	?? or Measure_Nonreferential ? Is "lot" part of MWE? Is teh whole Quantified expression?
+T52	Pronominal 716 720	that
+T54	nonuniq_Physical_copresence 723 743	that big green thing
+T55	Measure_Nonreferential 757 768	little else
+T56	uniq_Larger_situation 795 801	Russia
+T57	uniq_Larger_situation 803 808	China
+T58	uniq_Larger_situation 813 818	India
+T59	Bridging_restrictiveModifier 770 818	The combined coverage of Russia, China and India
+T60	Part_of_noncompositionalMWE 824 831	example
+T62	nonuniq_Physical_copresence 846 857	one percent
+T63	Pronominal 864 866	we
+T64	Pronominal 2811 2814	you
+T65	Pronominal 2787 2789	we
+T66	Pronominal 2754 2755	I
+T67	Pronominal 2761 2763	we
+T68	Quantified 876 896	all the news stories
+T69	Same_head 914 923	one story
+T70	Same_head 936 945	the world
+T71	Quantified 954 958	What
+T73	Same_head 963 973	that story
+T74	uniq_Larger_situation 988 1005	Anna Nicole Smith
+T75	Bridging_restrictiveModifier 975 1005	The death of Anna Nicole Smith
+T13	Same_head 1007 1017	This story
+T14	uniq_Larger_situation 1048 1052	Iraq
+T53	Quantified 1027 1040	every country
+T72	Same_head 1096 1100	IPCC
+T76	Bridging_restrictiveModifier 1092 1107	the IPCC report
+T77	Bridging_restrictiveModifier 1076 1107	the coverage of the IPCC report
+T78	Measure_Nonreferential 1067 1107	10 times the coverage of the IPCC report
+T79	nonuniq_Larger_situation 1113 1122	the cycle
+T80	Pronominal 1137 1143	we all
+T81	uniq_Larger_situation 1150 1157	Britney
+T82	Quantified 1194 1197	why
+T83	Pronominal 1204 1206	we
+T84	Same_head 1223 1232	the world
+T85	Measure_Nonreferential 1212 1232	more about the world
+T86	Pronominal 1294 1299	their
+T87	uniq_Larger_situation 1367 1374	Nairobi
+T88	uniq_Larger_situation 1376 1385	New Delhi
+T89	uniq_Larger_situation 1390 1396	Mumbai
+T90	uniq_Larger_situation 1347 1350	ABC
+T91	uniq_Larger_situation 1442 1448	Africa
+T92	uniq_Larger_situation 1450 1455	India
+T93	uniq_Larger_situation 1459 1472	South America
+T94	Quantified 1435 1472	all of Africa, India or South America
+T95	uniq_Larger_situation 1559 1566	Britney
+T96	Pronominal 1644 1646	we
+T97	Quantified 1651 1656	where
+T98	Quantified 1791 1795	what
+T99	uniq_Larger_situation 1802 1809	the web
+T100	uniq_Larger_situation 1872 1875	Pew
+T101	uniq_Larger_situation 1880 1901	the Colombia J-School
+T102	uniq_Larger_situation 1947 1953	Google
+T103	Pronominal 1976 1980	they
+T104	uniq_Larger_situation 2093 2097	U.S.
+T105	uniq_Larger_situation 2162 2169	Reuters
+T106	Pronominal 2234 2239	their
+T107	Pronominal 2254 2256	it
+T108	Pronominal 2265 2268	you
+T109	Pronominal 2273 2275	it
+T110	Pronominal 2290 2294	this
+T111	Measure_Nonreferential 2435 2443	20 years
+T112	Pronominal 2456 2459	you
+T113	Pleonastic 2466 2468	it
+T114	Pronominal 2486 2488	we
+T115	Pronominal 2509 2512	you
+T116	Pronominal 2564 2568	they
+T117	Pronominal 2690 2692	we
+T118	Pronominal 2715 2718	our
+T119	Bridging_OtherContext 1234 1244	One reason
+T120	Generic_individualLevel 1253 1266	news networks
+T121	Bridging_restrictiveModifier 1294 1315	their foreign bureaus
+T122	Bridging_restrictiveModifier 1280 1315	the number of their foreign bureaus
+#8	AnnotatorNotes T122	?? not sure
+T123	Measure_Nonreferential 1319 1323	half
+T124	Bridging_restrictiveModifier 1336 1397	one-person ABC mini-bureaus in Nairobi, New Delhi and Mumbai,
+T125	Quantified 1408 1472	no network news bureaus in all of Africa, India or South America
+#9	AnnotatorNotes T125	does quantified get preference over restrictive modifier?
+T126	Part_of_noncompositionalMWE 1492 1496	home
+T127	Measure_Nonreferential 1500 1528	more than two billion people
+T128	Bridging_restrictiveModifier 1476 1528	places that are home to more than two billion people
+T129	nonuniq_Hearer_new_spec 1530 1541	The reality
+T130	Same_head 1596 1611	global coverage
+T131	Bridging_OtherContext 1583 1611	this lack of global coverage
+T132	Generic_individualLevel 1657 1663	people
+#10	AnnotatorNotes T132	or unique larger situation because of the maximality condition of uniqueness ???
+T133	Same_head 1671 1675	news
+T134	Same_head 1677 1690	Local TV news
+T136	Pronominal 1751 1754	its
+T137	Bridging_restrictiveModifier 1751 1763	its coverage
+T138	Quantified 1737 1763	12 percent of its coverage
+#11	AnnotatorNotes T138	???
+T139	Same_head 1767 1785	international news
+#12	AnnotatorNotes T139	??
+T140	uniq_Larger_situation 1811 1838	The most popular news sites
+#13	AnnotatorNotes T140	superlative "most"
+T141	nonuniq_Larger_situation 1861 1870	Last year
+T142	Bridging_restrictiveModifier 1947 1958	Google News
+T143	Bridging_restrictiveModifier 1947 1970	Google News' front page
+T144	Bridging_restrictiveModifier 1911 1970	the 14,000 stories that appeared on Google News' front page
+T145	nonuniq_Hearer_new_spec 1999 2022	the same 24 news events
+T146	Other_Nonreferential 2046 2055	e-content
+T147	nonuniq_Hearer_new_spec 2035 2055	a study in e-content
+T148	Bridging_restrictiveModifier 2093 2111	U.S. news creators
+T150	Quantified 2068 2111	much of global news from U.S. news creators
+#15	AnnotatorNotes T150	or restrictive modifier ??
+T151	uniq_Larger_situation 2137 2157	the AP wire services
+T152	Bridging_restrictiveModifier 2115 2169	recycled stories from the AP wire services and Reuters
+T153	Part_of_noncompositionalMWE 2185 2191	things
+T154	Generic_individualLevel 2212 2218	people
+#16	AnnotatorNotes T154	?? not sure
+T155	Bridging_restrictiveModifier 2234 2250	their connection
+T156	Part_of_noncompositionalMWE 2197 2206	a context
+T157	nonuniq_Larger_situation 2318 2323	today
+T158	Generic_individualLevel 2318 2343	today's college graduates
+#17	AnnotatorNotes T158	or nonuniq generic nonspecific?
+T159	Generic_individualLevel 2356 2379	less educated Americans
+T160	Same_head 2397 2406	the world
+T161	Pronominal 2412 2417	their
+T162	Bridging_restrictiveModifier 2412 2430	their counterparts
+T163	nonuniq_Larger_situation 2532 2544	recent years
+T164	Same_head 2584 2595	global news
+T165	Part_of_noncompositionalMWE 2604 2612	the time
+T166	Quantified 2596 2612	most of the time
+T167	Bridging_restrictiveModifier 2546 2612	Americans who say they closely follow global news most of the time
+T169	Measure_Nonreferential 2621 2636	over 50 percent
+T170	Bridging_OtherContext 2660 2684	this distorted worldview
+T171	uniq_Larger_situation 2702 2711	Americans
+#18	AnnotatorNotes T171	maximality condition of uniqueness
+T172	Same_head 2715 2752	our increasingly interconnected world
+T173	nonuniq_Hearer_new_spec 2638 2655	The real question
+#19	AnnotatorNotes T24	Note the diff between the use of "a number of seconds" vs "the number of seconds ..."
+T44	Bridging_restrictiveModifier 2076 2111	global news from U.S. news creators

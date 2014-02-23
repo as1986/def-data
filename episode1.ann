@@ -1,0 +1,184 @@
+T1	Pronominal 0 1	I
+T2	Pronominal 14 17	him
+T3	Pronominal 21 22	I
+T4	Pronominal 48 51	him
+T5	Pronominal 53 54	I
+T6	nonuniq_Hearer_new_spec 59 64	a gun
+T7	Pronominal 70 71	I
+T8	Pronominal 92 95	him
+T9	Pronominal 105 108	him
+T10	Pronominal 124 126	me
+T11	Pronominal 128 129	I
+T12	nonuniq_Hearer_new_spec 146 159	this stranger
+T13	Pronominal 172 174	me
+T15	Pronominal 180 182	it
+T16	Pronominal 195 197	me
+T17	nonuniq_Larger_situation 204 216	This morning
+T18	uniq_Hearer_new 217 227	Anne Prado
+T20	uniq_Larger_situation 251 292	the University of Southwestern California
+T21	Bridging_restrictiveModifier 236 292	my students at the University of Southwestern California
+T23	Bridging_restrictiveModifier 302 311	my office
+T24	Pronominal 313 316	She
+T25	Pronominal 322 325	she
+T26	nonuniq_Hearer_new_spec 330 339	a problem
+T27	Pronominal 344 347	she
+T28	Bridging_restrictiveModifier 355 362	my help
+T29	Pronominal 355 357	my
+T30	Pronominal 302 304	my
+T31	Pronominal 364 367	Her
+T32	Bridging_restrictiveModifier 364 374	Her sister
+T33	uniq_Hearer_new 376 381	Sarah
+T34	Pronominal 396 398	We
+T35	Same_head 418 425	Sarah's
+T36	Bridging_restrictiveModifier 418 435	Sarah's apartment
+T37	Pronominal 407 410	our
+T38	Bridging_restrictiveModifier 407 435	our way to Sarah's apartment
+T39	Pronominal 444 447	her
+T40	Bridging_nominal 484 496	the building
+T41	Bridging_restrictiveModifier 465 496	the front steps of the building
+T42	nonuniq_Hearer_new_spec 498 503	a man
+T43	Pronominal 515 517	me
+T44	Pronominal 539 541	me
+T45	Pronominal 544 545	I
+T46	Same_head 550 557	the man
+T47	Bridging_nominal 561 568	the ear
+T48	Pronominal 570 572	He
+T50	Pronominal 593 595	He
+T52	Predicative_Nonidentity 611 631	a tough son-of-a-gun
+T53	Pronominal 633 634	I
+T54	Pronominal 657 660	him
+T55	Bridging_nominal 669 680	the stomach
+T58	Pronominal 696 698	he
+T59	Pronominal 707 708	I
+T60	Pronominal 715 716	I
+T61	Pronominal 722 725	him
+T62	Bridging_event 726 735	that time
+T63	Pronominal 738 739	I
+T64	Pronominal 745 747	he
+T66	Pronominal 761 762	I
+T67	Pronominal 770 773	him
+T68	nonuniq_Hearer_new_spec 782 792	the ground
+T69	Pronominal 794 796	He
+T70	Same_head 842 864	the apartment building
+T71	Bridging_restrictiveModifier 829 864	the steps to the apartment building
+T72	Bridging_restrictiveModifier 807 864	the grass in front of the steps to the apartment building
+T73	Pleonastic 870 872	it
+T74	Pronominal 877 879	my
+T75	Bridging_restrictiveModifier 877 884	my turn
+T19	Pronominal 903 904	I
+T22	Pronominal 916 919	him
+T76	Pronominal 940 943	you
+T77	Pronominal 953 956	you
+T78	Pronominal 964 966	He
+T79	Pronominal 982 984	He
+T80	nonuniq_Hearer_new_spec 989 998	a ski hat
+T81	Pronominal 1006 1007	I
+T82	Pronominal 1021 1024	his
+T83	Bridging_restrictiveModifier 1021 1029	his face
+T85	Same_head 1062 1085	this apartment building
+T87	Pronominal 1113 1115	he
+T88	Pronominal 1123 1124	I
+T89	Pronominal 1133 1136	him
+T49	Pronominal 1087 1090	You
+T51	nonuniq_Hearer_new_spec 1140 1149	the shirt
+T56	Pronominal 1158 1161	his
+T57	Bridging_restrictiveModifier 1158 1166	his face
+T65	Same_head 1172 1182	the ground
+T84	Pronominal 1192 1195	his
+T86	Bridging_restrictiveModifier 1192 1199	his arm
+T90	Pronominal 1207 1210	his
+T91	Bridging_restrictiveModifier 1207 1215	his back
+T92	Pronominal 1217 1219	He
+T93	Pronominal 1244 1245	I
+T94	Pronominal 1252 1254	he
+T95	Part_of_noncompositionalMWE 1281 1289	fighting
+T96	Pronominal 1306 1309	you
+T97	Pronominal 1321 1322	I
+T98	Same_head 1333 1346	the apartment
+T99	Pronominal 1349 1350	I
+T100	Quantified 1380 1392	some answers
+T101	Pronominal 1394 1395	I
+T102	nonuniq_Hearer_new_spec 1400 1412	a few people
+T103	Same_head 1425 1447	the apartment building
+T104	Same_head 1481 1488	the man
+T105	Part_of_noncompositionalMWE 1506 1512	a word
+T106	Pronominal 1514 1516	He
+T107	Pronominal 1524 1531	himself
+T108	Pronominal 1556 1558	me
+T109	Pronominal 1565 1567	He
+T110	Pronominal 1578 1580	me
+T111	Measure_Nonreferential 1592 1600	a second
+T14	Quantified 134 174	no idea why this stranger was hitting me
+T112	nonuniq_Hearer_new_spec 229 292	one of my students at the University of Southwestern California
+T113	Other_Nonreferential 587 591	pain
+T114	Part_of_noncompositionalMWE 626 631	a-gun
+T115	Part_of_noncompositionalMWE 687 689	my
+T116	Part_of_noncompositionalMWE 687 693	my God
+T117	Other_Nonreferential 755 759	pain
+T118	Part_of_noncompositionalMWE 893 900	control
+T119	Quantified 932 935	Who
+T120	Part_of_noncompositionalMWE 1043 1051	the hell
+T121	Quantified 1298 1301	who
+T122	Bridging_nominal 1616 1626	the street
+T123	Pronominal 1629 1630	I
+T124	Same_head 1646 1650	Anne
+T125	Pronominal 1664 1667	she
+T126	Pronominal 1682 1685	you
+T127	Quantified 1691 1694	who
+T128	Pronominal 1695 1697	he
+T129	Pronominal 1708 1711	you
+T130	Pronominal 1717 1720	him
+T131	Pronominal 1730 1731	I
+T132	uniq_Larger_situation 1745 1755	Dr. Reeves
+T133	Pronominal 1757 1758	I
+T134	Pronominal 1773 1775	my
+T135	Bridging_restrictiveModifier 1773 1782	my sister
+T136	Bridging_restrictiveModifier 1773 1794	my sister’s apartment
+T137	Pronominal 1807 1808	I
+T138	Quantified 1820 1823	who
+T139	Pronominal 1824 1826	he
+T140	Pronominal 1838 1840	me
+T141	Measure_Nonreferential 1849 1857	a minute
+T142	Same_head 1859 1871	This morning
+T143	Pronominal 1875 1877	my
+T144	Bridging_restrictiveModifier 1875 1884	my office
+T145	Same_head 1885 1889	Anne
+T146	Measure_Nonreferential 1909 1917	two days
+T147	Pronominal 1923 1926	she
+T148	Part_of_noncompositionalMWE 1948 1953	lunch
+T149	Pronominal 1959 1962	her
+T150	Same_head 1971 1982	Sarah Salas
+T151	Bridging_restrictiveModifier 1959 1969	her sister
+T152	Pronominal 1989 1992	her
+T153	Same_head 1989 1999	her sister
+T154	Bridging_nominal 2015 2029	the restaurant
+T155	Same_head 2031 2035	Anne
+T156	Same_head 2043 2048	Sarah
+T157	Bridging_restrictiveModifier 2043 2060	Sarah’s apartment
+T158	Quantified 2072 2081	no answer
+T159	Same_head 2085 2089	Anne
+T160	Pronominal 2098 2101	her
+T161	Same_head 2098 2109	her sister’
+T162	Same_head 2098 2120	her sister’s apartment
+T163	Bridging_nominal 2147 2155	the door
+T164	Quantified 2171 2177	no one
+T165	Other_Nonreferential 2178 2182	home
+T166	Pronominal 2184 2187	She
+T167	Same_head 2195 2200	Sarah
+T168	Bridging_restrictiveModifier 2195 2207	Sarah’s work
+T169	Pronominal 2209 2212	Her
+T170	Bridging_restrictiveModifier 2209 2217	Her boss
+T171	Same_head 2223 2227	Anne
+T172	Same_head 2233 2238	Sarah
+T173	Measure_Nonreferential 2260 2268	two days
+T174	Same_head 2273 2277	Anne
+T175	Pronominal 2293 2295	me
+T176	Pronominal 2309 2312	her
+T177	Same_head 2309 2319	her sister
+T178	Pronominal 2324 2327	her
+T179	Same_head 2324 2334	her sister
+T180	Bridging_restrictiveModifier 2324 2344	her sister’s husband
+T181	uniq_Hearer_new 2346 2350	Bill
+T182	Quantified 2352 2355	who
+T183	Pronominal 236 238	my
+T184	Quantified 1455 1459	what
