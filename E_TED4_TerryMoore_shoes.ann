@@ -1,0 +1,122 @@
+T1	Pronominal 0 1	I
+T2	Pronominal 180 181	I
+T3	Pronominal 210 211	I
+T4	Pronominal 267 270	you
+T5	Pronominal 331 332	I
+T6	Pronominal 360 361	I
+T7	Pronominal 401 403	me
+T8	Pronominal 405 406	I
+T9	uniq_Physical_copresence 24 40	the TED audience
+T10	Quantified 44 174	a wonderful collection of some of the most effective, intelligent, intellectual, savvy, worldly and innovative people in the world
+T11	Quantified 70 174	some of the most effective, intelligent, intellectual, savvy, worldly and innovative people in the world
+T12	uniq_Larger_situation 165 174	the world
+T13	Quantified 78 174	the most effective, intelligent, intellectual, savvy, worldly and innovative people in the world
+T14	Pronominal 188 192	that
+T15	Bridging_restrictiveModifier 290 300	your shoes
+T16	Pronominal 290 294	your
+T17	Bridging_restrictiveModifier 222 270	reason to believe that many, if not most, of you
+T18	Quantified 245 270	many, if not most, of you
+T19	Quantified 258 270	most, of you
+T20	Other_Nonreferential 413 430	the same sad life
+T21	nonuniq_Larger_situation 443 454	three years
+T22	Quantified 464 468	what
+T23	Pronominal 481 483	me
+T24	Pronominal 488 489	I
+T25	Quantified 498 502	what
+T26	Pronominal 511 513	me
+T27	Bridging_restrictiveModifier 515 545	a very expensive pair of shoes
+T28	nonuniq_Hearer_new_spec 540 545	shoes
+T29	Same_head 551 562	those shoes
+T30	nonuniq_Hearer_new_spec 573 590	round nylon laces
+T31	Same_head 596 597	I
+T32	Pronominal 612 616	them
+T33	Pronominal 626 627	I
+T34	Bridging_nominal 641 650	the store
+T35	Bridging_nominal 663 672	the owner
+T36	Pronominal 675 676	I
+T37	Same_head 682 691	the shoes
+T38	Pronominal 697 698	I
+T39	Same_head 704 713	the laces
+T40	Pronominal 716 718	He
+T41	Part_of_noncompositionalMWE 724 730	a look
+T42	Pronominal 746 749	you
+T43	Pronominal 759 763	them
+T44	Measure_Nonreferential 785 796	that moment
+T45	Pronominal 798 799	I
+T46	Measure_Nonreferential 828 834	age 50
+T47	Quantified 836 902	one of the life skills that I had really nailed was tying my shoes
+T48	Pronominal 864 865	I
+T49	Bridging_restrictiveModifier 894 902	my shoes
+T50	Pronominal 894 896	my
+T51	Pronominal 922 924	me
+T52	Pronominal 939 943	This
+T53	Bridging_restrictiveModifier 947 999	the way that most of us were taught to tie our shoes
+T54	Quantified 960 999	most of us were taught to tie our shoes
+T55	Bridging_restrictiveModifier 990 999	our shoes
+T56	Pronominal 990 993	our
+T57	Pronominal 968 970	us
+T58	Pronominal 1008 1010	it
+T59	Pronominal 1024 1029	thank
+T60	Part_of_noncompositionalMWE 1041 1053	there's more
+T61	Pronominal 1058 1060	it
+T62	Bridging_restrictiveModifier 1080 1122	a strong form and a weak form of this knot
+T63	Bridging_nominal 1113 1122	this knot
+T64	Pronominal 1113 1117	this
+T65	Pronominal 1128 1130	we
+T66	Generic_individualLevel 1150 1163	the weak form
+T67	Pronominal 1192 1195	you
+T68	Bridging_restrictiveModifier 1201 1236	the strands at the base of the knot
+T69	Bridging_restrictiveModifier 1216 1236	the base of the knot
+T70	Same_head 1228 1236	the knot
+T71	Pronominal 1238 1241	you
+T72	Bridging_nominal 1256 1263	the bow
+T73	Pronominal 1276 1282	itself
+T74	Bridging_restrictiveModifier 1283 1313	down the long axis of the shoe
+T75	Same_head 1305 1313	the shoe
+T76	Pronominal 1315 1319	That
+T77	Bridging_restrictiveModifier 1322 1347	the weak form of the knot
+T78	Same_head 1339 1347	the knot
+T79	Pronominal 1371 1373	we
+T80	Bridging_event 1399 1433	the other direction around the bow
+T81	Same_head 1426 1433	the bow
+T82	Pronominal 1435 1437	we
+T83	Pronominal 1442 1446	this
+T84	Bridging_restrictiveModifier 1448 1475	the strong form of the knot
+T85	Same_head 1467 1475	the knot
+T86	Pronominal 1484 1487	you
+T87	Bridging_restrictiveModifier 1493 1517	the cords under the knot
+T88	Same_head 1509 1517	the knot
+T89	Pronominal 1519 1522	you
+T90	Same_head 1537 1544	the bow
+T91	Pronominal 1553 1559	itself
+T92	Bridging_restrictiveModifier 1560 1597	along the transverse axis of the shoe
+T93	Same_head 1589 1597	the shoe
+T94	Pronominal 1599 1603	This
+T95	Same_head 1607 1622	a stronger knot
+T96	Pronominal 1624 1626	It
+T97	Pronominal 1656 1658	It
+T98	Pronominal 1668 1671	you
+T99	Pronominal 1696 1700	that
+T100	Pronominal 1702 1704	it
+T101	Pronominal 1720 1722	We
+T102	Pronominal 1738 1742	this
+T103	Quantified 1743 1756	one more time
+T104	Part_of_noncompositionalMWE 1778 1783	usual
+T105	Bridging_restrictiveModifier 1788 1817	the other way around the loop
+T106	Bridging_nominal 1809 1817	the loop
+T107	Pronominal 1819 1823	This
+T108	Bridging_restrictiveModifier 1827 1853	a little hard for children
+T109	Generic_individualLevel 1845 1853	children
+T110	Pronominal 1859 1860	I
+T111	Pronominal 1867 1870	you
+T112	Pronominal 1882 1884	it
+T113	Same_head 1891 1899	the knot
+T114	Pronominal 1901 1906	There
+T115	Pronominal 1907 1909	it
+T116	Same_head 1914 1946	the strong form of the shoe knot
+T117	Same_head 1933 1946	the shoe knot
+T118	nonuniq_Larger_situation 1970 1983	today's theme
+T119	Pronominal 1985 1986	I
+T120	Pronominal 2024 2027	you
+T121	Bridging_restrictiveModifier 2059 2138	a small advantage someplace in life can yield tremendous results someplace else
+T122	Quantified 2124 2133	someplace

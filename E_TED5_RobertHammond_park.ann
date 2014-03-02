@@ -1,0 +1,288 @@
+T1	uniq_Larger_situation 0 12	The Highline
+T2	uniq_predicative_identity 16 98	an old, elevated rail line that runs for a mile and a half right through Manhattan
+T3	Measure_Nonreferential 57 74	a mile and a half
+T4	uniq_Larger_situation 89 98	Manhattan
+T5	Pronominal 104 106	it
+T6	uniq_predicative_identity 122 159	a freight line that ran down 10th Ave
+T7	uniq_Larger_situation 151 159	10th Ave
+T8	Pronominal 165 167	it
+T9	Different_head 185 197	Death Avenue
+T10	Quantified 207 221	so many people
+T11	Bridging_nominal 239 249	the trains
+T12	Bridging_restrictiveModifier 255 308	the railroad hired a guy on horseback to run in front
+T13	Pronominal 314 316	he
+T14	Different_head 333 354	the "West Side Cowboy
+T15	Same_head 371 379	a cowboy
+T16	Measure_Nonreferential 387 405	one person a month
+T17	Pronominal 434 438	they
+T18	Pronominal 448 450	it
+T19	Pronominal 452 456	They
+T20	Pronominal 463 465	it
+T21	Measure_Nonreferential 466 483	30 ft. in the air
+T22	Bridging_restrictiveModifier 499 521	the middle of the city
+T23	Same_head 513 521	the city
+T24	Bridging_restrictiveModifier 532 563	the rise of interstate trucking
+T25	Generic_individualLevel 544 563	interstate trucking
+T26	Pronominal 565 567	it
+T27	nonuniq_Larger_situation 599 603	1980
+T28	Same_head 605 619	the last train
+T29	Pronominal 626 628	It
+T30	Bridging_restrictiveModifier 633 667	a train loaded with frozen turkeys
+T31	Same_head 633 640	a train
+T32	Pronominal 671 675	they
+T33	uniq_Larger_situation 684 696	Thanksgiving
+T34	nonuniq_Larger_situation 705 729	the meatpacking district
+T35	Pronominal 740 742	it
+T36	Pronominal 763 764	I
+T37	nonuniq_Larger_situation 773 789	the neighborhood
+T38	Pronominal 795 796	I
+T39	Pronominal 814 816	it
+T40	uniq_Larger_situation 820 838	the New York Times
+T41	Bridging_restrictiveModifier 843 893	an article that said it was going to be demolished
+T42	Pronominal 864 866	it
+T43	Pronominal 899 900	I
+T44	Quantified 909 916	someone
+T45	Pronominal 941 943	it
+T46	Pronominal 952 954	it
+T47	Pronominal 959 960	I
+T48	Pronominal 982 983	I
+T49	Quantified 993 999	no one
+T50	Pronominal 1020 1021	I
+T51	Bridging_restrictiveModifier 1030 1062	my first community board meeting
+T52	Pronominal 1030 1032	my
+T53	Pronominal 1072 1073	I
+T54	Measure_Nonreferential 1090 1093	one
+T55	Quantified 1120 1150	another guy named Joshua David
+T56	uniq_Larger_situation 1138 1150	Joshua David
+T57	Quantified 1152 1173	who's a travel writer
+T58	Bridging_restrictiveModifier 1182 1204	the end of the meeting
+T59	Same_head 1193 1204	the meeting
+T60	Pronominal 1206 1208	we
+T61	Pronominal 1218 1220	we
+T62	Quantified 1226 1289	the only two people that were sort of interested in the project
+T63	Quantified 1291 1302	most people
+T64	Pronominal 1318 1320	it
+T65	nonuniq_Hearer_new_spec 1278 1289	the project
+T66	Pronominal 1330 1332	we
+T67	Generic_individualLevel 1343 1357	business cards
+T68	Pronominal 1363 1365	we
+T69	Quantified 1379 1389	each other
+T70	Pronominal 1384 1389	other
+T71	Bridging_restrictiveModifier 1411 1428	this organization
+T72	Pronominal 1411 1415	this
+T73	uniq_Larger_situation 1430 1454	Friends of the High Line
+T74	Bridging_restrictiveModifier 1460 1477	the goal at first
+T75	Pronominal 1494 1496	it
+T76	Pronominal 1523 1525	we
+T77	Quantified 1552 1556	what
+T78	Pronominal 1557 1559	we
+T79	Pronominal 1574 1576	it
+T80	Quantified 1583 1587	what
+T81	Pronominal 1604 1606	me
+T82	Pronominal 1622 1624	me
+T83	nonuniq_Physical_copresence 1630 1655	this view from the street
+T84	Bridging_nominal 1668 1726	this steel structure, sort of rusty, this industrial relic
+T85	Pronominal 1668 1672	this
+T86	Pronominal 1705 1709	this
+T87	Quantified 1732 1736	when
+T88	Pronominal 1737 1738	I
+T89	Pronominal 1755 1757	it
+T90	Bridging_restrictiveModifier 1762 1927	a mile and a half of wildflowers running right through the middle of Manhattan with views of the Empire State Building and the Statue of Liberty and the Hudson River
+T91	Measure_Nonreferential 1762 1779	a mile and a half
+T92	Bridging_restrictiveModifier 1817 1927	the middle of Manhattan with views of the Empire State Building and the Statue of Liberty and the Hudson River
+T93	uniq_Larger_situation 1855 1880	the Empire State Building
+T94	uniq_Larger_situation 1885 1906	the Statue of Liberty
+T95	nonuniq_Larger_situation 1911 1927	the Hudson River
+T96	Bridging_restrictiveModifier 1762 1794	a mile and a half of wildflowers
+T97	Pronominal 1933 1937	that
+T98	Quantified 1947 1952	where
+T99	Pronominal 1953 1955	we
+T100	nonuniq_Hearer_new_spec 1965 1973	the idea
+T101	Pronominal 2003 2007	this
+T102	nonuniq_Larger_situation 2008 2014	a park
+T103	Pronominal 2031 2033	it
+T104	Bridging_restrictiveModifier 2057 2071	this wildscape
+T105	Pronominal 2057 2061	this
+T106	Part_of_noncompositionalMWE 2077 2085	the time
+T107	Pronominal 2087 2092	there
+T108	Quantified 2097 2116	a lot of opposition
+T109	uniq_Larger_situation 2118 2132	Mayor Giuliani
+T110	Pronominal 2148 2150	it
+T111	Pronominal 2157 2158	I
+T112	Quantified 2191 2242	a lot of lawsuits and a lot of community engagement
+T113	Quantified 2213 2242	a lot of community engagement
+T114	nonuniq_Larger_situation 2200 2208	lawsuits
+T115	nonuniq_Larger_situation 2222 2242	community engagement
+T116	uniq_Larger_situation 2244 2259	Mayor Bloomberg
+T117	Part_of_noncompositionalMWE 2268 2274	office
+T118	Pronominal 2276 2278	he
+T119	Pronominal 2304 2306	we
+T120	Bridging_OtherContext 2325 2342	the economic case
+T121	Pronominal 2344 2348	This
+T122	uniq_Larger_situation 2359 2363	9/11
+T123	Same_head 2365 2373	the city
+T124	Part_of_noncompositionalMWE 2381 2392	tough times
+T125	Pronominal 2397 2399	we
+T126	Bridging_restrictiveModifier 2413 2466	an economic feasibility study to try to make the case
+T127	nonuniq_Hearer_new_spec 2458 2466	the case
+T128	Pronominal 2472 2474	it
+T129	Pronominal 2486 2488	we
+T130	Quantified 2493 2506	those numbers
+T131	Pronominal 2514 2516	We
+T132	Pronominal 2525 2527	it
+T133	Measure_Nonreferential 2539 2558	100 million dollars
+T134	Pronominal 2576 2578	it
+T135	Measure_Nonreferential 2592 2603	150 million
+T136	Same_head 2609 2622	the main case
+T137	Pronominal 2628 2632	this
+T138	Bridging_restrictiveModifier 2650 2682	good economic sense for the city
+T139	Same_head 2674 2682	the city
+T140	Pronominal 2687 2689	we
+T141	Measure_Nonreferential 2700 2721	a 20-year time period
+T142	Bridging_restrictiveModifier 2723 2793	the value to the city in increased property values and increased taxes
+T143	Generic_individualLevel 2748 2773	increased property values
+T144	Generic_individualLevel 2778 2793	increased taxes
+T145	Measure_Nonreferential 2809 2820	250 million
+T146	Pronominal 2822 2826	That
+T147	Pronominal 2839 2841	It
+T148	Same_head 2853 2861	the city
+T149	Pronominal 2869 2871	it
+T150	Pronominal 2873 2875	It
+T151	Pronominal 2886 2888	we
+T152	Pronominal 2903 2907	that
+T153	Generic_kindLevel 2913 2919	people
+T154	Pronominal 2929 2931	it
+T155	Measure_Nonreferential 2942 2972	about a half a billion dollars
+T156	Measure_Nonreferential 2989 3019	about a half a billion dollars
+T157	Bridging_restrictiveModifier 3024 3049	tax revenues for the city
+T158	Same_head 3041 3049	the city
+T159	Pronominal 3051 3053	We
+T160	nonuniq_Larger_situation 3058 3078	a design competition
+T161	nonuniq_Larger_situation 3089 3102	a design team
+T162	Pronominal 3104 3106	We
+T163	Pronominal 3119 3123	them
+T164	Bridging_restrictiveModifier 3141 3185	a design that was inspired by that wildscape
+T165	Pronominal 3171 3175	that
+T166	Same_head 3171 3185	that wildscape
+T167	Pronominal 3187 3192	There
+T168	Measure_Nonreferential 3195 3209	three sections
+T169	Pronominal 3212 3214	We
+T170	Bridging_restrictiveModifier 3222 3246	the fist section in 2009
+T171	nonuniq_Larger_situation 3242 3246	2009
+T172	Pronominal 3248 3250	It
+T173	Bridging_restrictiveModifier 3276 3286	our dreams
+T174	Pronominal 3276 3279	our
+T175	nonuniq_Larger_situation 3288 3297	Last year
+T176	Pronominal 3298 3300	we
+T177	Quantified 3305 3329	about two million people
+T178	Quantified 3340 3377	about 10 times what we ever estimated
+T179	Pronominal 3360 3362	we
+T180	Pronominal 3379 3383	This
+T181	Bridging_restrictiveModifier 3387 3429	one of my favorite features in section one
+T182	Pronominal 3394 3396	my
+T183	Same_head 3418 3429	section one
+T184	Pronominal 3431 3433	It
+T185	Bridging_restrictiveModifier 3436 3473	this amphitheater right over 10th Ave
+T186	Same_head 3465 3473	10th Ave
+T187	Bridging_restrictiveModifier 3479 3513	the first section ends at 20th St.
+T188	uniq_Larger_situation 3505 3512	20th St
+T189	Quantified 3525 3540	The other thing
+T190	Pronominal 3529 3534	other
+T191	Pronominal 3542 3544	it
+T192	Quantified 3569 3592	a lot of economic value
+T193	nonuniq_Larger_situation 3578 3592	economic value
+T194	Pronominal 3614 3615	I
+T195	Quantified 3623 3650	a lot of great architecture
+T196	nonuniq_Larger_situation 3632 3650	great architecture
+T197	Pleonastic 3652 3657	There
+T198	nonuniq_Larger_situation 3660 3667	a point
+T199	Pronominal 3669 3672	you
+T200	Bridging_restrictiveModifier 3696 3759	buildings by Frank Gehry, Jean Nouvel, Shigeru Ban, Neil Denari
+T201	uniq_Larger_situation 3709 3720	Frank Gehry
+T202	uniq_Larger_situation 3722 3733	Jean Nouvel
+T203	uniq_Larger_situation 3735 3746	Shigeru Ban
+T204	uniq_Larger_situation 3748 3759	Neil Denari
+T205	uniq_Larger_situation 3765 3776	the Whitney
+T206	nonuniq_Larger_situation 3787 3795	downtown
+T207	Bridging_restrictiveModifier 3812 3863	their new museum right at the base of the High Line
+T208	Pronominal 3812 3817	their
+T209	Bridging_restrictiveModifier 3838 3863	the base of the High Line
+T210	Same_head 3850 3863	the High Line
+T211	Same_head 3869 3873	this
+T212	uniq_Larger_situation 3895 3906	Renzo Piano
+T213	Pronominal 3912 3917	they'
+T214	Part_of_noncompositionalMWE 3935 3941	ground
+T215	nonuniq_Larger_situation 3945 3948	May
+T216	Pronominal 3955 3957	we
+T217	Bridging_nominal 3993 4004	section two
+T218	Pronominal 4006 4010	This
+T219	Bridging_restrictiveModifier 4014 4041	one of my favorite features
+T220	Pronominal 4021 4023	my
+T221	Bridging_restrictiveModifier 4043 4147	this flyover where you're eight feet off the surface of the High Line, running through a canopy of trees
+T222	Pronominal 4062 4065	you
+T223	Pronominal 4043 4047	this
+T224	Quantified 4056 4061	where
+T225	Quantified 4069 4112	eight feet off the surface of the High Line
+T226	Same_head 4099 4112	the High Line
+T227	Bridging_restrictiveModifier 4130 4147	a canopy of trees
+T228	Same_head 4149 4162	The High Line
+T229	nonuniq_Larger_situation 4185 4195	billboards
+T230	Pronominal 4204 4206	we
+T231	Part_of_noncompositionalMWE 4216 4230	a playful take
+T232	Quantified 4231 4236	where
+T233	nonuniq_Larger_situation 4257 4271	advertisements
+T234	Pronominal 4273 4275	it
+T235	Generic_kindLevel 4293 4299	people
+T236	Bridging_restrictiveModifier 4303 4320	views of the city
+T237	Same_head 4312 4320	the city
+T238	Pronominal 4322 4326	This
+T239	nonuniq_Larger_situation 4346 4356	last month
+T240	Bridging_nominal 4367 4383	the last section
+T241	nonuniq_Larger_situation 4407 4421	the rail yards
+T242	nonuniq_Larger_situation 4432 4473	the largest undeveloped site in Manhattan
+T243	Same_head 4464 4473	Manhattan
+T244	Same_head 4479 4487	the city
+T245	Measure_Nonreferential 4530 4610	12 million square-feet of development that the High Line is going to ring around
+T246	Pronominal 4573 4586	the High Line
+T247	Pronominal 4630 4631	I
+T248	Same_head 4645 4658	the High Line
+T249	Generic_kindLevel 4670 4680	the people
+T250	Pronominal 4708 4709	I
+T251	Bridging_restrictiveModifier 4715 4748	the designs that we were building
+T252	Pronominal 4732 4734	we
+T253	Pronominal 4750 4751	I
+T254	Pronominal 4779 4780	I
+T255	Pronominal 4802 4804	it
+T256	Pronominal 4814 4815	I
+T257	Same_head 4834 4848	that wildscape
+T258	Pronominal 4866 4869	you
+T259	Bridging_restrictiveModifier 4879 4889	that magic
+T260	Pronominal 4879 4883	that
+T261	Pronominal 4900 4901	I
+T262	Pronominal 4911 4913	it
+T263	Generic_kindLevel 4919 4929	the people
+T264	Pronominal 4947 4949	it
+T265	Same_head 4959 4961	me
+T266	Pronominal 4969 4971	it
+T267	nonuniq_Hearer_new_spec 4989 5006	one quick example
+T268	Pronominal 5010 5011	I
+T269	Pronominal 5033 5035	we
+T270	Quantified 5059 5106	all these people holding hands on the High Line
+T271	Pronominal 5093 5106	the High Line
+T272	Pronominal 5112 5113	I
+T273	uniq_Larger_situation 5123 5134	New Yorkers
+T274	Same_head 5146 5151	hands
+T275	Pronominal 5153 5155	we
+T276	nonuniq_Larger_situation 5175 5182	outside
+T277	Pronominal 5188 5191	you
+T278	Same_head 5214 5227	the High Line
+T279	Pronominal 5233 5234	I
+T280	Bridging_restrictiveModifier 5248 5359	the power that public space can have to transform how people experience their city and interact with each other
+T281	Quantified 5298 5301	how
+T282	Pronominal 5320 5325	their
+T283	Quantified 5349 5359	each other
+T284	Pronominal 5354 5359	other
+T285	Same_head 255 267	the railroad
+T286	nonuniq_Larger_situation 274 292	a guy on horseback
+T287	nonuniq_Larger_situation 1039 1062	community board meeting
+T288	Pronominal 1630 1634	this
